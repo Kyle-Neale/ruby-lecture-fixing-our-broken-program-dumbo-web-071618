@@ -1,7 +1,8 @@
-This is a program
+Hello World!
+gram
 Programs are interpreted at runtime.
 Which means even though I'm writing this Tue Jan 17 2012 8:36am
-the time now is 2018-06-28 01:12:31 +0000
+the time now is 2018-06-28 01:12:56 +0000
 Programs have flow.
 Which means that you see this first
 and this next.
